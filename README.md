@@ -1,5 +1,5 @@
 # 86_
-def greet(name)
+defi greet(name)
   puts "Hello, #{name}!"
 end
 
