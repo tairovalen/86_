@@ -1,6 +1,6 @@
 # 86_
 defi greet(alen)
-  puts "Hi, #{alen}!"
+  puts "Hi, #{Oleg}!"
 END
 
 greet("Ruby")
