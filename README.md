@@ -2,5 +2,5 @@
 defi greet(alen)
   puts "Hello, #{Petr}!"15
 END 58
-static void main(15)
+static void main(08)
 greet("OkexS")
