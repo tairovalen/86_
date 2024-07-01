@@ -1,6 +1,6 @@
 # 86_
 defi greet(alen)
-  puts "Hello, #{Petr}!"01365
+  puts "Hello, #{Petr}!"02
 END 86
 static void main(08.0514)
 greet("OkexS")02
